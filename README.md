@@ -1,7 +1,7 @@
 # 🧠 SmartStudy Planner
 
 [![Streamlit](https://img.shields.io/badge/Built%20with-Streamlit-ff4b4b?style=flat-square)](https://streamlit.io/)
-[![Python](https://img.shields.io/badge/Python-3.11%2B-blue?style=flat-square)](https://python.org/)
+[![Python](https://img.shields.io/badge/Python-3.11"%2B-blue?style=flat-square)](https://python.org/)
 [![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
 
 ## 🌟 Project Description
@@ -25,7 +25,7 @@ It uses a trained Machine Learning model to recommend the best time split betwee
 
 ## 🛠️ Tech Stack
 
-- Python 3.11
+- Python 3.13
 - Streamlit
 - scikit-learn
 - pandas
